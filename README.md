@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=950&lines=AI-oriented+Robotics+Engineer" alt="AI-oriented Robotics Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=950&lines=AI-oriented+Robotics+Engineer+Devoted+to+excelling+in+two areas+,+each+strengthing+the+other+:+AI+&+Robotics" alt="AI-oriented Robotics Engineer, Devoted to excelling in two areas, each strengthing the other: AI & Robotics" />
 </p>
 
 <p align="center">
