@@ -41,26 +41,24 @@
 
 ---
 
-## What I do
+## Focus
 
-My work sits at the intersection of:
-
-- **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):** motion execution, voice interaction, safety-first control flows  
-- **Hospital support automation:** non-clinical assistance at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers  
+- **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):** motion execution, voice interaction, safety-first control flows and their application in Healthcare settings. 
+  Hospital support automation includes:** non-clinical assistance at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers. 
 - **Reliable robotics software:** reproducible runs, strict routing contracts, deterministic execution
 
 ---
 
 ## Featured work
 
-### 🤖 G1 Humanoid Robot — Multimodal Assistant
-A multilingual voice interface that can:
-- answer questions via TTS, or
-- route commands to a **fixed motion catalogue** for safe, deterministic robot actions
+### 🤖 Hassan: A Hospital Support Humanoid Robot (developed on Unitree G1 Humanoid Robot)
+A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interface that lets you:
+- Ask questions and hear spoken answers.
+- Control the robot using natural, free-form speech (not restricted to fixed command phrases), while executing **pre-defined motions** with **high performance**.
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
 
-#### Who Makes ChatGPT Move — Hassan: A Hospital Support Humanoid Robot
+#### Who Makes ChatGPT Move - Hassan: A Hospital Support Humanoid Robot
 
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
@@ -87,7 +85,7 @@ Testable, reproducible, and easy to debug.
 
 ---
 
-## Contact
+## Always happy to communicate
 
 - **Email:** abdullah.m.elnahrawy@outlook.com  
 - **LinkedIn:** https://www.linkedin.com/in/abdullah-m-elnahrawy/
