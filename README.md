@@ -31,13 +31,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Abdullah%20M.%20El--Nahrawy-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--El--Nahrawy-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
-      src="https://img.shields.io/badge/GitHub-Abdullah%20M.%20El--Nahrawy-0A0A0A?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--El--Nahrawy-0A0A0A?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
