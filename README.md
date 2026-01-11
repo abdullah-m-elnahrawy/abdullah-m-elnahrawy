@@ -10,34 +10,31 @@
   <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU Humanoid</b>
 </p>
 
-
-
-
 <p align="center">
   Devoted to excelling in two areas, each strengthening the other:<br/>
   <span style="font-family: 'Fira Code', monospace; font-weight: 800;">
     <b>AI &amp; Robotics</b>
   </span><br/>
-  with a focus on fusing AI with robotics (<b>mobile robots</b>, <b>humanoids</b>) for <b> indoor non-clinical hospital applications</b>.
+  with a focus on fusing AI with robotics (<b>mobile robots</b>, <b>humanoids</b>) for <b>indoor non-clinical hospital applications</b>.
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
       height="36"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=3B3B3B"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
-      height="32"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=555555"
+      height="36"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=3B3B3B"
       alt="GitHub: abdullah-m-elnahrawy"
     />
   </a>
-  </p>
+</p>
+
 
 
 
