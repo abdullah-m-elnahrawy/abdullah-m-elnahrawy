@@ -20,9 +20,13 @@
 </p>
 
 <p align="center">
-  Devoted to excelling in two areas, each strengthening the other: <br/> <b>AI</b> &amp; <b>Robotics</b><br/>
-  with a focus on <b>mobile robots</b>, <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
+  Devoted to excelling in two areas, each strengthening the other:<br/>
+  <span style="font-family: 'Fira Code', monospace; font-weight: 800;">
+    AI &amp; Robotics
+  </span><br/>
+  with a focus on mobile robots, humanoids, hospital support, and real deployment constraints.
 </p>
+
 
 
 <p align="center">
