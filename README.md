@@ -8,12 +8,12 @@
 
 <p align="center">
   <img
-    height="34"
+    height="30"
     src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-10B981?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
     alt="NVIDIA Jetson Orin"
   />
   <img
-    height="34"
+    height="30"
     src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-10B981?style=for-the-badge&logoColor=white&labelColor=064E3B"
     alt="Unitree G1 EDU Humanoid"
   />
