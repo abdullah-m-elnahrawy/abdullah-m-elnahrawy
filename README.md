@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS2-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
