@@ -89,14 +89,6 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interfac
 
 ---
 
-### 🎙️ G1 Humanoid Robot — Voice-Based Motions
-Voice → strict routing → YAML-defined gestures → deterministic execution.  
-Testable, reproducible, and easy to debug.
-
-**Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-voice-based-motions
-
----
-
 ## Always happy to communicate
 
 <p>
