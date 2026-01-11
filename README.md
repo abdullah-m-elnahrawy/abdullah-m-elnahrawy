@@ -36,7 +36,7 @@
 
 ## What I do
 
-My focus sits at the intersection of:
+My focus sits at:
 - **Unmanned Ground Vehicles & Humanoid robotics (e.g., Unitree G1 EDU):** their applications in hospitals for Logistics, caregivers and patient non-clinical support.
 **Hospital support automation:** includes non-clinical assistance at public touchpoints (greetings, wayfinding-style prompts, FAQs, unloading non-clinical burden caregivers)  
 
@@ -48,7 +48,7 @@ Ask anything, hear the answer, or command the robot to perform a specific motion
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
 
-## Who Makes ChatGPT Move | A Hospital Support Humanoid Robot
+## Who Makes ChatGPT Move - Hassan: A Hospital Support Humanoid Robot
 
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
