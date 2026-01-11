@@ -104,10 +104,10 @@ Testable, reproducible, and easy to debug.
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-m-elnahrawy</a>
 </p>
 
-
+<!--
 ---
 
-<!--## GitHub at a glance
+## GitHub at a glance
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&show_icons=true&include_all_commits=true&rank_icon=github" />
