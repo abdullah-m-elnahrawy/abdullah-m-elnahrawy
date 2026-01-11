@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=950&lines=AI-oriented+Robotics+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1100&lines=AI-oriented+Robotics+Engineer;M.Eng.+Holder+%26+MASc+Candidate%2C+University+of+Ottawa%2C+Canada;Devoted+to+excelling+in+two+areas%2C+each+strengthening+the+other%3A+AI+%26+Robotics"
     alt="AI-oriented Robotics Engineer"
   />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" />
@@ -31,6 +32,8 @@
 
 ## Flagship demo (click to watch)
 
+## Flagship demo (click to watch)
+
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
     <img
@@ -39,9 +42,17 @@
       alt="G1 Humanoid Multimodal Assistant demo (click to watch)"
     />
   </a>
-  <br/>
-  <sub><b>Click the GIF</b> to watch the full video demo.</sub>
 </p>
+
+<p align="center">
+  <a
+    href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: underline;"
+  ><b>Watch the full demo video</b></a>
+</p>
+
 
 ---
 
