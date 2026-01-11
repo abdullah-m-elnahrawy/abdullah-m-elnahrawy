@@ -56,7 +56,7 @@
 
 ---
 
-## Focus
+## 🔎 Focus
 
 **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):**
 - Motion execution and free-form voice interaction with a focus on **real-world healthcare deployment**.
@@ -64,9 +64,9 @@
   
 ---
 
-## Featured work
+## 🌱 Featured work
 
-### 🤖 Hassan: A Hospital Support Humanoid Robot (developed using Unitree G1 Humanoid Robot)
+### Hassan: A Hospital Support Humanoid Robot (developed using Unitree G1 Humanoid Robot)
 A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interface that lets you:
 - Ask any questions and hear spoken answers.
 - Control the robot using **natural, free-form speech** (not restricted to fixed command phrases), while executing **pre-defined motions** with **high performance** and **deterministic behaviour**.
@@ -93,7 +93,7 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interfac
 
 ---
 
-## Always happy to communicate
+## 🤝 Always happy to communicate
 
 <p>
   <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
