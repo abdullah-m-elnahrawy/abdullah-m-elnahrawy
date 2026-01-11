@@ -9,12 +9,12 @@
 <p align="center">
   <img
     height="34"
-    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-10B981?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-10B981?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=111827"
     alt="NVIDIA Jetson Orin"
   />
   <img
     height="34"
-    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-10B981?style=for-the-badge&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-10B981?style=for-the-badge&logoColor=white&labelColor=111827"
     alt="Unitree G1 EDU Humanoid"
   />
 </p>
@@ -23,22 +23,22 @@
 <p align="center">
   <img
     height="34"
-    src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111827"
     alt="C++"
   />
   <img
     height="34"
-    src="https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white&labelColor=111827"
     alt="C"
   />
   <img
     height="34"
-    src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827"
     alt="Linux"
   />
   <img
     height="34"
-    src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=111827"
     alt="ROS 2"
   />
 </p>
@@ -59,14 +59,14 @@
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
       height="36"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-10B981?style=flat-square&logo=linkedin&logoColor=white&labelColor=064E3B"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-10B981?style=flat-square&logo=linkedin&logoColor=white&labelColor=111827"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
       height="36"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-10B981?style=flat-square&logo=github&logoColor=white&labelColor=064E3B"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-10B981?style=flat-square&logo=github&logoColor=white&labelColor=111827"
       alt="GitHub: abdullah-m-elnahrawy"
     />
   </a>
