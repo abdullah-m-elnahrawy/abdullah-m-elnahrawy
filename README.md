@@ -6,14 +6,18 @@
 </p>
 
 <p align="center">
+  <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU</b> | <b>C++</b> | <b>C</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align="center">
-  Devoted to excelling in two areas, each strengthening the+other:  AI and Robotics
-  with a focus on <b>humanoids</b>, <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
+  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> and <b>Robotics</b> —
+  with a focus on <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
 </p>
 
 <p align="center">
@@ -39,7 +43,7 @@ My work sits at the intersection of:
 ## Featured work
 
 ### 🤖 G1 Humanoid Robot — Multimodal Assistant
-Ask anything, hear the answer, or command the robot to perform a specific motion.
+Ask anything, hear the answer, or command the robot to perform a specific motion.  
 - Real-time Arabic/English voice assistant that retrieves information (TTS) and triggers robot motions
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
@@ -75,7 +79,7 @@ Testable, reproducible, and easy to debug.
 
 ---
 
-## Contact
+## Always happy to communicate with you
 
 <p>
   <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
