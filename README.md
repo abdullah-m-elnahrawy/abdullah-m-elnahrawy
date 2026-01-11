@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1100&lines=AI-oriented+Robotics+Engineer;M.Eng.+Holder+%26+MASc+Candidate%2C+University+of+Ottawa%2C+Canada;Devoted+to+excelling+in+two+areas%2C+each+strengthening+the+other%3A+AI+%26+Robotics"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1100&lines=AI-oriented+Robotics+Engineer;M.Eng.+Holder+%26+MASc+Candidate%2C+University+of+Ottawa%2C+Canada"
     alt="AI-oriented Robotics Engineer"
   />
 </p>
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  I build <b>AI-driven robotics systems</b> that convert <b>natural language</b> into <b>safe, deterministic robot behaviour</b> —
-  with a focus on <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
+  Devoted to excelling in two areas, each strengthening the+other:  AI and Robotics
+  with a focus on <b>humanoids</b>, <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
 </p>
 
 <p align="center">
