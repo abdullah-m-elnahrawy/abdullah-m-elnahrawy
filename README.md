@@ -43,18 +43,18 @@
 
 ## Focus
 
-- **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):** motion execution, voice interaction, safety-first control flows and their application in Healthcare settings. 
-  Hospital support automation includes:** non-clinical assistance at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers. 
-- **Reliable robotics software:** reproducible runs, strict routing contracts, deterministic execution
-
+- **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):** Motion execution and free-form voice interaction with a focus on **real-world healthcare deployment**.
+  Hospital applications includes non-clinical assistance at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers and  
+  
 ---
 
 ## Featured work
 
-### 🤖 Hassan: A Hospital Support Humanoid Robot (developed on Unitree G1 Humanoid Robot)
+### 🤖 Hassan: A Hospital Support Humanoid Robot (developed using Unitree G1 Humanoid Robot)
 A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interface that lets you:
-- Ask questions and hear spoken answers.
-- Control the robot using natural, free-form speech (not restricted to fixed command phrases), while executing **pre-defined motions** with **high performance**.
+- Ask any questions and hear spoken answers.
+- Control the robot using **natural, free-form speech** (not restricted to fixed command phrases), while executing **pre-defined motions** with **high performance** and **deterministic behaviour**.
+
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
 
