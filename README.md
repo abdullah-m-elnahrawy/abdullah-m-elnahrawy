@@ -53,7 +53,7 @@ Ask anything, hear the answer, or command the robot to perform a specific motion
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
     <img
-      src="[https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/blob/main/assets/demo.gif"
+      src="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/blob/main/assets/demo.gif"
       width="950"
       alt="G1 Humanoid Multimodal Assistant demo"
     />
