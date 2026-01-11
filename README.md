@@ -35,11 +35,13 @@
     src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B"
     alt="Linux"
   />
+  <!--
   <img
     height="30"
     src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B"
     alt="ROS 2"
   />
+  -->
 </p>
 
 <p align="center">
