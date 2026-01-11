@@ -58,7 +58,7 @@
 
 **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):**
 - Motion execution and free-form voice interaction with a focus on **real-world healthcare deployment**.
-- Hospital applications includes non-clinical assistance at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers and  
+- Hospital applications include non-clinical assistance at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers and  
   
 ---
 
