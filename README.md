@@ -39,7 +39,7 @@
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
-      height="36"
+      height="40"
       src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=3B3B3B"
       alt="GitHub: abdullah-m-elnahrawy"
     />
