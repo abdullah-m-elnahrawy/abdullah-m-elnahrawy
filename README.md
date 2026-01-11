@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi,&nbsp;I’m Abdullah</h2>
+<h2 align="center">👋 Hi,&ensp;I’m Abdullah</h2>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1100&lines=AI-oriented+Robotics+Engineer;M.Eng.+Holder+%26+MASc+Candidate;University+of+Ottawa%2C+Canada"
