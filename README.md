@@ -76,8 +76,8 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interfac
 </p>
 
 <p align="center">
-  🔊 <b>GIF is silent.</b> Click to watch the full demo video:
-  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>Demo Video (Issue #1)</b></a>
+  🔊 <b>GIF is silent.</b> Click to watch the :
+  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>full demo video</b></a>
 </p>
 
 ---
