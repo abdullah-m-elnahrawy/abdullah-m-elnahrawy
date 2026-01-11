@@ -9,15 +9,16 @@
 <p align="center">
   <img
     height="34"
-    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0FA3B1?style=for-the-badge&logo=nvidia&logoColor=white"
+    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0FA3B1?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=3B3B3B"
     alt="NVIDIA Jetson Orin"
   />
   <img
     height="34"
-    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0FA3B1?style=for-the-badge&logo=robotframework&logoColor=white"
+    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0FA3B1?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=3B3B3B"
     alt="Unitree G1 EDU Humanoid"
   />
 </p>
+
 
 
 <p align="center">
@@ -31,7 +32,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
-      height="36"
+      height="40"
       src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=3B3B3B"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
