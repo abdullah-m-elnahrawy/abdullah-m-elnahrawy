@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Abdullah</h2>
+<h2 align="center">👋 Hi,  I’m Abdullah</h2>
 
 <p align="center">
   <img
