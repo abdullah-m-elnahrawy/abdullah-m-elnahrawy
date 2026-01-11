@@ -24,7 +24,7 @@
   <span style="font-family: 'Fira Code', monospace; font-weight: 800;">
     AI &amp; Robotics
   </span><br/>
-  with a focus on fusing AI with robotics (<b>mobile robots</b>, <b>humanoids</b>) for <b> indoor non-clinical hospital applications</b>, engineered for <b>real deployment constraints</b>.
+  with a focus on fusing AI with robotics (<b>mobile robots</b>, <b>humanoids</b>) for <b> indoor non-clinical hospital applications</b>.
 </p>
 
 
