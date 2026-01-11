@@ -91,6 +91,15 @@ Testable, reproducible, and easy to debug.
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&layout=compact" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=00000000&amp;cache_seconds=86400"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;cache_seconds=86400"
+    alt="Top languages"
+  />
 </p>
+
