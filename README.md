@@ -48,25 +48,22 @@ Ask anything, hear the answer, or command the robot to perform a specific motion
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
 
-#### Who Makes ChatGPT Move | A Hospital Support Humanoid Robot
+## Who Makes ChatGPT Move | A Hospital Support Humanoid Robot
 
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
-    <img
-      src="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/blob/main/assets/demo.gif"
-      width="950"
-      alt="G1 Humanoid Multimodal Assistant demo"
-    />
+    <img src="assets/demo.gif" width="950" alt="G1 Humanoid Multimodal Assistant demo (click to watch)" />
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px; color: #24292f; line-height: 1.45; margin-top: 10px;">
+  🔊 <b>GIF is silent.</b> Click to watch
   <a
     href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"
     target="_blank"
     rel="noopener noreferrer"
     style="text-decoration: underline;"
-  ><b>Watch the full demo video</b></a>
+  ><b>the full demo video</b></a>.
 </p>
 
 ---
