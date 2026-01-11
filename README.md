@@ -5,7 +5,6 @@
   />
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -30,9 +29,24 @@
 
 ---
 
-## Flagship demo (click to watch)
+## What I do
 
-## Flagship demo (click to watch)
+My work sits at the intersection of:
+- **Humanoid robotics (Unitree G1 EDU):** gesture execution, voice interaction, safety-first control flows
+- **Hospital support automation:** non-clinical assistance at public touchpoints (greetings, wayfinding-style prompts, FAQs)
+- **Reliable robotics software:** reproducible runs, strict routing contracts, deterministic execution
+
+---
+
+## Featured work
+
+### 🤖 G1 Humanoid Robot — Multimodal Assistant
+Ask anything, hear the answer, or command the robot to perform a specific motion.
+- Real-time Arabic/English voice assistant that retrieves information (TTS) and triggers robot motions
+
+**Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
+
+#### Who Makes ChatGPT Move | A Hospital Support Humanoid Robot
 
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
@@ -53,46 +67,27 @@
   ><b>Watch the full demo video</b></a>
 </p>
 
-
----
-
-## What I do
-From Cairo to Ottawa, I’ve focused on one mission: **engineering practical AI + Robotics solutions**.
-
-My work sits at the intersection of:
-- **Humanoid robotics (Unitree G1 EDU):** gesture execution, voice interaction, safety-first control flows
-- **Hospital support automation:** non-clinical assistance at public touchpoints (greetings, wayfinding-style prompts, FAQs)
-- **Reliable robotics software:** reproducible runs, strict routing contracts, deterministic execution
-
----
-
-## Featured work
-
-### 🤖 G1 Humanoid Robot — Multimodal Assistant
-Multilingual voice interface that arbitrates between:
-- triggering a catalogue motion, or
-- returning a short spoken reply (streamed audio playback)
-
-**Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant  
-**Video:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917
-
 ---
 
 ### 🎙️ G1 Humanoid Robot — Voice-Based Motions
-Voice → strict routing → exact motion file → deterministic execution.
-Built to be testable, reproducible, and easy to debug.
+Voice → strict routing → exact motion file → deterministic execution.  
+Testable, reproducible, and easy to debug.
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-voice-based-motions
 
 ---
 
-## Earlier robotics foundation
-### MEdI — Hospital indoor delivery (UGV)
-Hands-on robotics work spanning **ROS**, **SLAM**, **Raspberry Pi**, and end-to-end system building.
+## Contact
+
+<p>
+  <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-m-elnahrawy</a>
+</p>
 
 ---
 
 ## GitHub at a glance
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&show_icons=true&include_all_commits=true&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&layout=compact" />
