@@ -34,14 +34,14 @@
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
       height="40"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=3B3B3B"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3B3B3B"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
       height="40"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=3B3B3B"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=for-the-badge&logo=github&logoColor=white&labelColor=3B3B3B"
       alt="GitHub: abdullah-m-elnahrawy"
     />
   </a>
