@@ -12,26 +12,26 @@
 
 <!-- Icon row (use zero-width space to keep badges "icon-only") -->
 <!-- Badges: calm teal/blue family (unified) -->
-<!-- Badges: bright but professional (brand-ish) -->
 <p align="center">
   <!-- icon-only -->
-  <img src="https://img.shields.io/badge/%E2%80%8B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/%E2%80%8B-1E88E5?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/%E2%80%8B-0EA5A4?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/%E2%80%8B-0EA5A4?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 
   <!-- text + icon -->
-  <img src="https://img.shields.io/badge/LINUX-2EA043?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/NVIDIA%20JETSON-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
+  <img src="https://img.shields.io/badge/LINUX-0EA5A4?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/NVIDIA%20JETSON-0EA5A4?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
 </p>
 
-<!-- Links: clear + friendly -->
+<!-- Links: same calm palette -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
-    <img src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0EA5A4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
-    <img src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0EA5A4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 
 
