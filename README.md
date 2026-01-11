@@ -76,7 +76,7 @@ Testable, reproducible, and easy to debug.
 
 ---
 
-## Always happy to communicate
+## Always happ to communicate
 
 <p>
   <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
