@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> &amp; <b>Robotics</b> —
-  with a focus on <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
+  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> &amp; <b>Robotics</b>, 
+  with a focus on <b>mobile robots</b>, b><b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
 </p>
 
 <p align="center">
