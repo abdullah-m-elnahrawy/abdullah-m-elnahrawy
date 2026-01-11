@@ -6,27 +6,21 @@
 </p>
 
 <p align="center">
-  <b>NVIDIA Jetson Orin</b> • <b>Unitree G1 Humanoid</b> • <b>C++</b> • <b>C</b>
+  <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU</b> | <b>C++</b> | <b>C</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS2-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align="center">
-  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> &amp; <b>Robotics</b> — with a focus on
-  <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
+  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> and <b>Robotics</b> —
+  with a focus on <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
 </p>
 
 <p align="center">
-  <a href="mailto:abdullah.m.elnahrawy@outlook.com">
-    <img src="https://img.shields.io/badge/Email-abdullah.m.elnahrawy%40outlook.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20El--Nahrawy-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -37,8 +31,7 @@
 
 ---
 
-## What I build
-I engineer **AI-driven robotics systems** that convert **natural language** into **safe, deterministic robot behaviour**.
+## What I do
 
 My work sits at the intersection of:
 - **Humanoid robotics (Unitree G1 EDU):** gesture execution, voice interaction, safety-first control flows
@@ -50,13 +43,13 @@ My work sits at the intersection of:
 ## Featured work
 
 ### 🤖 G1 Humanoid Robot — Multimodal Assistant
-Multilingual voice interface that arbitrates between:
-- triggering a catalogue motion, or
-- returning a short spoken reply (TTS)
+Ask anything, hear the answer, or command the robot to perform a specific motion.  
+- Real-time Arabic/English voice assistant that retrieves information (TTS) and triggers robot motions
 
 **Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
 
 #### Who Makes ChatGPT Move | A Hospital Support Humanoid Robot
+
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
     <img
@@ -68,8 +61,12 @@ Multilingual voice interface that arbitrates between:
 </p>
 
 <p align="center">
-  <b>Watch the full demo video:</b>
-  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">Open the Issue</a>
+  <a
+    href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration: underline;"
+  ><b>Watch the full demo video</b></a>
 </p>
 
 ---
@@ -82,13 +79,18 @@ Testable, reproducible, and easy to debug.
 
 ---
 
+## Contact
+
+<p>
+  <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-m-elnahrawy</a>
+</p>
+
+---
+
 ## GitHub at a glance
 
 <p align="center">
-  <a href="https://github.com/abdullah-m-elnahrawy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/abdullah-m-elnahrawy">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&layout=compact" />
 </p>
