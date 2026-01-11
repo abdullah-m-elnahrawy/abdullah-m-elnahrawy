@@ -13,8 +13,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <!--<img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />-->
   <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
 </p>
