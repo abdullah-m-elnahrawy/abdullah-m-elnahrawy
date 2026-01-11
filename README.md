@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> and <b>Robotics</b> —
+  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> and <b>Robotics</b>, 
   with a focus on <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
 </p>
 
@@ -86,20 +86,4 @@ Testable, reproducible, and easy to debug.
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-m-elnahrawy</a>
 </p>
 
----
-
-## GitHub at a glance
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=00000000&amp;cache_seconds=86400"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
 
