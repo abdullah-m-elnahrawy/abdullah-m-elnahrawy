@@ -10,26 +10,6 @@
   <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU Humanoid</b>
 </p>
 
-<!-- Icon row (use zero-width space to keep badges "icon-only") -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
-    <img
-      height="32"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555"
-      alt="LinkedIn: abdullah-m-elnahrawy"
-    />
-  </a>
-  <a href="https://github.com/abdullah-m-elnahrawy">
-    <img
-      height="32"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=555555"
-      alt="GitHub: abdullah-m-elnahrawy"
-    />
-  </a>
-</p>
-
-
-
 
 
 
@@ -45,17 +25,19 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0A0A0A?style=flat&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+      height="32"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555"
+      alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0A0A0A?style=flat&logo=github&logoColor=white"
-      alt="GitHub"
+      height="32"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=555555"
+      alt="GitHub: abdullah-m-elnahrawy"
     />
   </a>
-</p>
+  </p>
 
 
 
