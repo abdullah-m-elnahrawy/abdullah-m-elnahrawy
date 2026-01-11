@@ -31,6 +31,10 @@
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>full demo video</b></a>.
 </p>
 
+<p align="center">
+  👉 <a href="#featured-work"><b>Jump to the project details</b></a>
+</p>
+
 <!-- HARDWARE (what it runs on) -->
 <p align="center">
   <img
@@ -92,19 +96,25 @@
 ## 🔎 Focus
 
 **UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):**
-- Motion execution and free-form voice interaction with a focus on **real-world healthcare deployment**.
+- Motion execution and free-form voice interaction with a focus on <b>real-world healthcare deployment</b>.
 - Non-clinical hospital support at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers.
 
 ---
+
+<a id="featured-work"></a>
 
 ## 🌱 Featured work
 
 ### Hassan: A Hospital Support Humanoid Robot (developed using Unitree G1 Humanoid Robot)
 A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interface that lets you:
 - Ask questions and hear spoken answers.
-- Control the robot using **natural, free-form speech** (not restricted to fixed command phrases), while executing **pre-defined motions** with **high performance** and **deterministic behaviour**.
+- Control the robot using <b>natural, free-form speech</b> (not restricted to fixed command phrases), while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
 
-**Repo:** https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
+<b>Repo:</b> https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
+
+<p align="center">
+  🎥 <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>Watch the full demo (with audio)</b></a>
+</p>
 
 ---
 
