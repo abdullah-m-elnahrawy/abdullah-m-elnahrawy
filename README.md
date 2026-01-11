@@ -11,26 +11,23 @@
 </p>
 
 <!-- Icon row (use zero-width space to keep badges "icon-only") -->
-<!-- Badges: calm teal/blue family (unified) -->
-<p align="center">
-  <!-- icon-only -->
-  <img src="https://img.shields.io/badge/%E2%80%8B-0EA5A4?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/%E2%80%8B-0EA5A4?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-
-  <!-- text + icon -->
-  <img src="https://img.shields.io/badge/LINUX-0EA5A4?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/NVIDIA%20JETSON-0EA5A4?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-</p>
-
-<!-- Links: same calm palette -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
-    <img src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0EA5A4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      height="32"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555"
+      alt="LinkedIn: abdullah-m-elnahrawy"
+    />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
-    <img src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0EA5A4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      height="32"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=github&logoColor=white&labelColor=555555"
+      alt="GitHub: abdullah-m-elnahrawy"
+    />
   </a>
 </p>
+
 
 
 
