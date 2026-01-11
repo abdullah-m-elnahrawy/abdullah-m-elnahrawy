@@ -24,7 +24,7 @@
 <p align="center">
   Devoted to excelling in two areas, each strengthening the other:<br/>
   <span style="font-family: 'Fira Code', monospace; font-weight: 800;">
-    AI &amp; Robotics
+    <b>AI &amp; Robotics</b>
   </span><br/>
   with a focus on fusing AI with robotics (<b>mobile robots</b>, <b>humanoids</b>) for <b> indoor non-clinical hospital applications</b>.
 </p>
