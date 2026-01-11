@@ -13,13 +13,15 @@
 
 <!-- Icon row (use zero-width space to keep badges "icon-only") -->
 <p align="center">
+  <!-- icon-only -->
   <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <!--<img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />-->
-  <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/%E2%80%8B-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+
+  <!-- text + icon -->
+  <img src="https://img.shields.io/badge/LINUX-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/NVIDIA%20JETSON-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
 </p>
+
 
 <p align="center">
   Devoted to excelling in two areas, each strengthening the other:<br/>
