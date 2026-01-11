@@ -99,9 +99,9 @@ Testable, reproducible, and easy to debug.
 
 ## Always happy to communicate
 
-<p align="center">
+<p>
   <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-mm-elnahrawy</a>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-m-elnahrawy</a>
 </p>
 
 
