@@ -36,12 +36,9 @@
 
 ## What I do
 
-My work sits at the intersection of:
-- **Humanoid robotics (Unitree G1 EDU):** gesture execution, voice interaction, safety-first control flows  
-- **Hospital support automation:** non-clinical assistance at public touchpoints (greetings, wayfinding-style prompts, FAQs)  
-- **Reliable robotics software:** reproducible runs, strict routing contracts, deterministic execution  
-
----
+My focus sits at the intersection of:
+- **Unmanned Ground Vehicles & Humanoid robotics (e.g., Unitree G1 EDU):** their applications in hospitals for Logistics, caregivers and patient non-clinical support.
+**Hospital support automation:** includes non-clinical assistance at public touchpoints (greetings, wayfinding-style prompts, FAQs, unloading non-clinical burden caregivers)  
 
 ## Featured work
 
@@ -56,9 +53,9 @@ Ask anything, hear the answer, or command the robot to perform a specific motion
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
     <img
-      src="https://raw.githubusercontent.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/main/assets/demo.gif"
+      src="assets/demo.gif"
       width="950"
-      alt="G1 Humanoid Multimodal Assistant demo (click to watch)"
+      alt="G1 Humanoid Multimodal Assistant demo"
     />
   </a>
 </p>
@@ -82,7 +79,7 @@ Testable, reproducible, and easy to debug.
 
 ---
 
-## Contact
+## Always happy to communicate
 
 <p>
   <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
