@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU</b> | <b>C++</b> | <b>C</b>
+  <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU Humanoid</b> | <b>C++</b> | <b>C</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> and <b>Robotics</b> —
+  Devoted to excelling in two areas, each strengthening the other: <b>AI</b> and <b>Robotics</b>, 
   with a focus on <b>humanoids</b>, <b>hospital support</b>, and <b>real deployment constraints</b>.
 </p>
 
@@ -79,18 +79,9 @@ Testable, reproducible, and easy to debug.
 
 ---
 
-## Contact
+## Alway happy to communicate
 
 <p>
   <b>Email:</b> <a href="mailto:abdullah.m.elnahrawy@outlook.com">abdullah.m.elnahrawy@outlook.com</a><br/>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">abdullah-m-elnahrawy</a>
-</p>
-
----
-
-## GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullah-m-elnahrawy&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-m-elnahrawy&layout=compact" />
 </p>
