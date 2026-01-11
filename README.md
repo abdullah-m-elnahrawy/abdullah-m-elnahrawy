@@ -7,8 +7,18 @@
 </p>
 
 <p align="center">
-  <b>NVIDIA Jetson Orin</b> | <b>Unitree G1 EDU Humanoid</b>
+  <img
+    height="34"
+    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0FA3B1?style=for-the-badge&logo=nvidia&logoColor=white"
+    alt="NVIDIA Jetson Orin"
+  />
+  <img
+    height="34"
+    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0FA3B1?style=for-the-badge&logo=robotframework&logoColor=white"
+    alt="Unitree G1 EDU Humanoid"
+  />
 </p>
+
 
 <p align="center">
   Devoted to excelling in two areas, each strengthening the other:<br/>
