@@ -32,9 +32,10 @@
 </p>
 
 <p align="center">
-  👉 <a href="#featured-work"><b>Jump to the project details</b></a>
+  👉 <a href="#featured-work"><b>Jump below to the project details</b></a>
 </p>
 
+---
 <!-- HARDWARE (what it runs on) -->
 <p align="center">
   <img
@@ -91,7 +92,7 @@
   </a>
 </p>
 
----
+
 
 ## 🔎 Focus
 
