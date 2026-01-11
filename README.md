@@ -31,20 +31,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
-      height="32"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0A0A0A?style=flat-square&logo=linkedin&logoColor=white&logoSize=22"
+      src="https://img.shields.io/badge/LinkedIn-profile-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
-      height="32"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0A0A0A?style=flat-square&logo=github&logoColor=white&logoSize=22"
+      src="https://img.shields.io/badge/GitHub-profile-0A0A0A?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 </p>
+
 
 
 
