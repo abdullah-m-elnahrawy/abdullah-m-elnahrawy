@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
-      height="32"
+      height="36"
       src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0FA3B1?style=flat-square&logo=linkedin&logoColor=white&labelColor=555555"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
