@@ -10,12 +10,12 @@
   <img
     height="34"
     src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0FA3B1?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=3B3B3B"
-    alt="NVIDIA Jetson Orin"
+    alt="Unitree G1 EDU Humanoid"
   />
   <img
     height="34"
     src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0FA3B1?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=3B3B3B"
-    alt="Unitree G1 EDU Humanoid"
+    alt="NVIDIA Jetson Orin"
   />
 </p>
 
