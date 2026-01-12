@@ -93,12 +93,12 @@
 
 - **UGVs & humanoids** and their applications in **healthcare settings**.
 - **Give LLMs the ability to move** by:
-  - building a reliable “nerve” layer that connects **LLMs (brain)** to **mobile robotics platforms (muscles)**.
-  - turning language understanding into **grounded, verifiable robot actions** (system design + safety).
+  - building a reliable “nerve” layer that connects LLMs (brain) to mobile robotics platforms (muscles).
+  - turning language understanding into grounded, verifiable robot actions (system design + safety).
 
 **Healthcare applications, guided by two principles:**
 - Automation that respects real workflows, constraints, and people.
-- Non-clinical hospital support for repetitive tasks (e.g., **blood sample delivery**), reducing non-clinical interruptions and load on caregivers (e.g., FAQs, wayfinding prompts). 
+- Non-clinical hospital support for repetitive tasks (e.g., blood sample delivery), reducing non-clinical interruptions and load on caregivers (e.g., FAQs, wayfinding prompts). 
 
 ---
 ## 🌱 Featured work
@@ -111,7 +111,7 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human-robot interface 
 
 ### Why this repo matters
 
-Most LLM demos are screen-bound. This repo focuses on building the “nerve” that connects LLMs (brain) to robots (muscles): <b>turning speech into verifiable robot actions</b>.
+Most LLM demos are screen-bound. This repo focuses on building the “nerve” that connects LLMs (brain) to robots (muscles): turning speech into verifiable robot actions.
 
 <b>What this assistant does</b> 
 - ✅ <b>Understands speech</b> (multilingual - high performance) 
@@ -122,7 +122,7 @@ Most LLM demos are screen-bound. This repo focuses on building the “nerve” t
 
 <b>Repo:</b>
 <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant">g1-humanoid-robot-multimodal-assistant</a><br/>
-<b>Demo (with audio):</b>
+<b>Demo:</b>
 <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">Watch the full demo</a>
 
 ---
