@@ -17,14 +17,14 @@
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
       height="28"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-10B981?style=flat-square&logo=linkedin&logoColor=white&labelColor=064E3B"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-14B8A6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F766E"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
       height="28"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-10B981?style=flat-square&logo=github&logoColor=white&labelColor=064E3B"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-14B8A6?style=flat-square&logo=github&logoColor=white&labelColor=0F766E"
       alt="GitHub: abdullah-m-elnahrawy"
     />
   </a>
@@ -50,22 +50,38 @@
 <p align="center">
   <img
     height="28"
-    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-10B981?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-14B8A6?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0F766E"
     alt="NVIDIA Jetson Orin"
   />
   <img
     height="28"
-    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-10B981?style=for-the-badge&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-14B8A6?style=for-the-badge&logoColor=white&labelColor=0F766E"
     alt="Unitree G1 EDU Humanoid"
   />
 </p>
 
 <!-- CORE STACK -->
 <p align="center">
-  <img height="28" src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B" alt="C++" />
-  <img height="28" src="https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B" alt="C" />
-  <img height="28" src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B" alt="Linux" />
-  <img height="28" src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B" alt="ROS 2" />
+  <img
+    height="28"
+    src="https://img.shields.io/badge/C%2B%2B-14B8A6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0F766E"
+    alt="C++"
+  />
+  <img
+    height="28"
+    src="https://img.shields.io/badge/C-14B8A6?style=for-the-badge&logo=c&logoColor=white&labelColor=0F766E"
+    alt="C"
+  />
+  <img
+    height="28"
+    src="https://img.shields.io/badge/Linux-14B8A6?style=for-the-badge&logo=linux&logoColor=white&labelColor=0F766E"
+    alt="Linux"
+  />
+  <img
+    height="28"
+    src="https://img.shields.io/badge/ROS%202-14B8A6?style=for-the-badge&logo=ros&logoColor=white&labelColor=0F766E"
+    alt="ROS 2"
+  />
 </p>
 
 ---
