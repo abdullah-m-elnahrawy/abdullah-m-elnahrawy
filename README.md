@@ -16,14 +16,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
-      height="26"
+      height="28"
       src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-10B981?style=flat-square&logo=linkedin&logoColor=white&labelColor=064E3B"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
-      height="26"
+      height="28"
       src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-10B981?style=flat-square&logo=github&logoColor=white&labelColor=064E3B"
       alt="GitHub: abdullah-m-elnahrawy"
     />
@@ -62,26 +62,10 @@
 
 <!-- CORE STACK -->
 <p align="center">
-  <img
-    height="28"
-    src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B"
-    alt="C++"
-  />
-  <img
-    height="28"
-    src="https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B"
-    alt="C"
-  />
-  <img
-    height="28"
-    src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B"
-    alt="Linux"
-  />
-  <img
-    height="28"
-    src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B"
-    alt="ROS 2"
-  />
+  <img height="28" src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B" alt="C++" />
+  <img height="28" src="https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B" alt="C" />
+  <img height="28" src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B" alt="Linux" />
+  <img height="28" src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B" alt="ROS 2" />
 </p>
 
 ---
@@ -100,10 +84,10 @@
 
 A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interface that lets you:
 - Ask questions and hear spoken answers.
-- Control the robot using <b>natural, free-form speech</b> (not restricted to fixed command phrases), while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
+- Control the robot using <b>natural, free-form speech</b>, while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
 
-<b>Repo:</b> https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant<br/>
-<b>Demo (with audio):</b> https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917
+<b>Repo:</b> <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant">g1-humanoid-robot-multimodal-assistant</a><br/>
+<b>Demo (with audio):</b> <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">Watch the full demo</a>
 
 ---
 
