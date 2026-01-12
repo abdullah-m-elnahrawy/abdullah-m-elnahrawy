@@ -114,11 +114,11 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human-robot interface 
 Most LLM demos are screen-bound. This repo focuses on building the “nerve” that connects LLMs (brain) to robots (muscles): turning speech into verifiable robot actions.
 
 <b>What this assistant does</b> 
-- ✅ <b>Understands speech</b> (multilingual - high performance) 
-- ✅ <b>Arbitrates intent</b>: “perform a motion” vs “reply with speech”
-- ✅ <b>Executes deterministic motion</b> from a <b>fixed catalogue</b> (no free-form motion generation), with high performance
-- ✅ <b>Plays back spoken replies</b> (backend-streamed audio)
-- ✅ Designed around real constraints of <b>robot self-noise</b> and <b>Wi-Fi availability</b>
+- ✅ Understands speech (multilingual - high performance) 
+- ✅ Arbitrates intent: “perform a motion” vs “reply with speech”
+- ✅ Executes deterministic motion from a fixed catalogue (no free-form motion generation), with high performance.
+- ✅ Plays back spoken replies (backend-streamed audio)
+- ✅ Designed around real constraints of robot self-noise and Wi-Fi availability
 
 <b>Repo:</b>
 <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant">g1-humanoid-robot-multimodal-assistant</a><br/>
