@@ -98,7 +98,7 @@
 
 **Healthcare applications, guided by two principles:**
 - Automation that respects real workflows, constraints, and people.
-- Non-clinical hospital support for repetitive tasks (e.g., blood sample delivery), reducing non-clinical interruptions and load on caregivers (e.g., FAQs, wayfinding prompts). 
+- Non-clinical hospital support for repetitive tasks (e.g., blood samples delivery), reducing non-clinical interruptions and load on caregivers (e.g., FAQs, wayfinding prompts). 
 
 ---
 ## 🌱 Featured work
