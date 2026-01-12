@@ -15,7 +15,25 @@
   with a focus on fusing AI with robotics (mobile robots, humanoids) for indoor non-clinical hospital applications.
 </p>
 
-<!-- HERO PROOF (put early for maximum attention) -->
+<!-- CONTACTS (one clean line) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0D9488?style=flat-square&logo=linkedin&logoColor=white&labelColor=064E3B"
+      alt="LinkedIn: abdullah-m-elnahrawy"
+    />
+  </a>
+  <a href="https://github.com/abdullah-m-elnahrawy">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0D9488?style=flat-square&logo=github&logoColor=white&labelColor=064E3B"
+      alt="GitHub: abdullah-m-elnahrawy"
+    />
+  </a>
+</p>
+
+<!-- HERO PROOF -->
 <p align="center">
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
     <img
@@ -31,65 +49,44 @@
   <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>full demo video</b></a>.
 </p>
 
-<p align="center">
-  👉 <a href="#featured-work"><b>Jump below to the project details</b></a>
-</p>
-
-<!-- HARDWARE (what it runs on) -->
+<!-- HARDWARE -->
 <p align="center">
   <img
     height="28"
-    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-10B981?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0D9488?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
     alt="NVIDIA Jetson Orin"
   />
   <img
     height="28"
-    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-10B981?style=for-the-badge&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0D9488?style=for-the-badge&logoColor=white&labelColor=064E3B"
     alt="Unitree G1 EDU Humanoid"
   />
 </p>
 
-<!-- SKILLS (core stack) -->
+<!-- STACK -->
 <p align="center">
   <img
     height="30"
-    src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/C%2B%2B-0D9488?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B"
     alt="C++"
   />
   <img
     height="30"
-    src="https://img.shields.io/badge/C-10B981?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/C-0D9488?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B"
     alt="C"
   />
   <img
     height="30"
-    src="https://img.shields.io/badge/Linux-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Linux-0D9488?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B"
     alt="Linux"
   />
   <img
     height="30"
-    src="https://img.shields.io/badge/ROS%202-10B981?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/ROS%202-0D9488?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B"
     alt="ROS 2"
   />
 </p>
 
-<!-- CTA LINKS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
-    <img
-      height="36"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-10B981?style=flat-square&logo=linkedin&logoColor=white&labelColor=064E3B"
-      alt="LinkedIn: abdullah-m-elnahrawy"
-    />
-  </a>
-  <a href="https://github.com/abdullah-m-elnahrawy">
-    <img
-      height="36"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-10B981?style=flat-square&logo=github&logoColor=white&labelColor=064E3B"
-      alt="GitHub: abdullah-m-elnahrawy"
-    />
-  </a>
-</p>
 
 ---
 
