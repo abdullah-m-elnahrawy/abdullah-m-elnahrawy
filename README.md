@@ -1,16 +1,16 @@
 <h2 align="center">👋 Hi,&nbsp;I’m Abdullah</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=1100&lines=AI-oriented+Robotics+Engineer;M.Eng.+Holder+%26+MASc+Candidate;University+of+Ottawa%2C+Canada"
-    alt="AI-oriented Robotics Engineer"
-  />
+  Devoted to excelling in two areas, each strengthening the other:<br/>
+  <span style="font-family: 'Fira Code', monospace; font-weight: 800;">
+    AI &amp; Robotics
+  </span><br/>
+  with a focus on mobile robots, humanoids, hospital support, and real deployment constraints.
 </p>
 
-<p align="center">
-  I build warm, reliable human–robot experiences—where <b>AI</b> and <b>Robotics</b> strengthen each other—focused on
-  <b>indoor non-clinical hospital support</b> under <b>real deployment constraints</b>.
-</p>
+
+<p align="center"> 
+Devoted to excelling in two areas, each strengthening the+other: AI and Robotics with a focus on humanoids, humanoids, hospital support, . </p>
 
 <!-- CONTACTS (one line, before the demo) -->
 <p align="center">
@@ -77,11 +77,11 @@
     src="https://img.shields.io/badge/Linux-14B8A6?style=for-the-badge&logo=linux&logoColor=white&labelColor=0F766E"
     alt="Linux"
   />
-  <img
+  <!--<img
     height="28"
     src="https://img.shields.io/badge/ROS%202-14B8A6?style=for-the-badge&logo=ros&logoColor=white&labelColor=0F766E"
     alt="ROS 2"
-  />
+  />-->
 </p>
 
 ---
