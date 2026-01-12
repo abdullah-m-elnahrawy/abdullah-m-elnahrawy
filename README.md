@@ -91,17 +91,27 @@
 ---
 
 ## 🔎 Focus
-
-Give LLMs the ability to move by building a reliable layer that connects mobile robotics platforms (UGVs & humanoids, e.g., Unitree G1 EDU) to LLMs.
-
-- **LLMs → Robot Motion:** turning language understanding into grounded, verifiable robot actions (system design + safety).
+- UGVs & humanoids and their applications into Healthcare settings.
+- Give LLMs the ability to move by building a reliable layer (nerve) that connects LLMs (brain) to mobile robotics platforms (muscles), based on:
+  1.  LLMs → Robot Motion: turning language understanding into grounded, verifiable robot actions (system design + safety).
 
 **Applications (Healthcare settings), guided by two principles:**
 - Automation that respects real workflows, constraints, and people.
-- Non-clinical hospital support at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers by taking charge of repetitive tasks (e.g., sample and meal delivery).
+- Non-clinical hospital support at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers by taking charge of repetitive tasks (e.g., blood sample delivery).
+
+
+## 🔎 Focus
+
+- **UGVs & humanoids** and their applications in **healthcare settings**.
+- **Give LLMs the ability to move** by:
+   -- building a reliable “nerve” layer that connects LLMs **(brain)** to mobile robotics platforms **(muscles)**.
+   -- turning language understanding into **grounded, verifiable robot actions** (system design + safety).
+
+**Healthcare applications, guided by two principles:**
+- Automation that respects real workflows, constraints, and people.
+- Non-clinical hospital support , repetitive tasks (e.g., **blood sample delivery**), reducing non-clinical load on caregivers, (greetings, wayfinding prompts, FAQs).
 
 ---
-
 ## 🌱 Featured work
 
 ### 🤖 Hassan — A Hospital Support Humanoid Robot (Unitree G1 EDU)
@@ -110,7 +120,7 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interfac
 - Ask questions and hear spoken answers.
 - Control the robot using <b>natural, free-form speech</b>, while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
 
-### Why this repo matters (HR-friendly)
+### Why this repo matters
 
 Most LLM demos are screen-bound. This repo focuses on building the “nerve” that connects LLMs (brain) to robots (muscles): <b>turning speech into verifiable robot actions</b>.
 
