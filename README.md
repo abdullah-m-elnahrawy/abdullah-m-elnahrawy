@@ -79,20 +79,26 @@
     src="https://img.shields.io/badge/Linux-14B8A6?style=for-the-badge&logo=linux&logoColor=white&labelColor=0F766E"
     alt="Linux"
   />
+  <!--
   <img
     height="28"
     src="https://img.shields.io/badge/ROS%202-14B8A6?style=for-the-badge&logo=ros&logoColor=white&labelColor=0F766E"
     alt="ROS 2"
   />
+  -->
 </p>
 
 ---
 
 ## 🔎 Focus
 
-**UGVs & Humanoid Robotics (e.g., Unitree G1 EDU):**
-- Motion execution and free-form voice interaction with a focus on <b>real-world healthcare deployment</b>.
-- Non-clinical hospital support at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers.
+Give LLMs the ability to move by building a reliable layer that connects mobile robotics platforms (UGVs & humanoids, e.g., Unitree G1 EDU) to LLMs.
+
+- **LLMs → Robot Motion:** turning language understanding into grounded, verifiable robot actions (system design + safety).
+
+**Applications (Healthcare settings), guided by two principles:**
+- Automation that respects real workflows, constraints, and people.
+- Non-clinical hospital support at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers by taking charge of repetitive tasks (e.g., sample and meal delivery).
 
 ---
 
@@ -104,8 +110,21 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interfac
 - Ask questions and hear spoken answers.
 - Control the robot using <b>natural, free-form speech</b>, while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
 
-<b>Repo:</b> <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant">g1-humanoid-robot-multimodal-assistant</a><br/>
-<b>Demo (with audio):</b> <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">Watch the full demo</a>
+### Why this repo matters (HR-friendly)
+
+Most LLM demos are screen-bound. This repo focuses on building the “nerve” that connects LLMs (brain) to robots (muscles): <b>turning speech into verifiable robot actions</b>.
+
+<b>What this assistant does</b>
+- ✅ <b>Understands speech</b> (multilingual)
+- ✅ <b>Arbitrates intent</b>: “perform a motion” vs “reply with speech”
+- ✅ <b>Executes deterministic motion</b> from a <b>fixed catalogue</b> (no free-form motion generation), with high performance
+- ✅ <b>Plays back spoken replies</b> (backend-streamed audio)
+- ✅ Designed around real constraints of <b>robot self-noise</b> and <b>Wi-Fi availability</b>
+
+<b>Repo:</b>
+<a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant">g1-humanoid-robot-multimodal-assistant</a><br/>
+<b>Demo (with audio):</b>
+<a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">Watch the full demo</a>
 
 ---
 
