@@ -91,16 +91,6 @@
 ---
 
 ## 🔎 Focus
-- UGVs & humanoids and their applications into Healthcare settings.
-- Give LLMs the ability to move by building a reliable layer (nerve) that connects LLMs (brain) to mobile robotics platforms (muscles), based on:
-  1.  LLMs → Robot Motion: turning language understanding into grounded, verifiable robot actions (system design + safety).
-
-**Applications (Healthcare settings), guided by two principles:**
-- Automation that respects real workflows, constraints, and people.
-- Non-clinical hospital support at public touchpoints (greetings, wayfinding prompts, FAQs), reducing non-clinical load on caregivers by taking charge of repetitive tasks (e.g., blood sample delivery).
-
-
-## 🔎 Focus
 
 - **UGVs & humanoids** and their applications in **healthcare settings**.
 - **Give LLMs the ability to move** by:
@@ -109,7 +99,7 @@
 
 **Healthcare applications, guided by two principles:**
 - Automation that respects real workflows, constraints, and people.
-- Non-clinical hospital support , repetitive tasks (e.g., **blood sample delivery**), reducing non-clinical load on caregivers, (greetings, wayfinding prompts, FAQs).
+- Non-clinical hospital support, repetitive tasks (e.g., **blood sample delivery**), reducing non-clinical load on caregivers, (greetings, wayfinding prompts, FAQs).
 
 ---
 ## 🌱 Featured work
