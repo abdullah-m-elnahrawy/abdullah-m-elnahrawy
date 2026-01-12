@@ -17,14 +17,14 @@
   <a href="https://www.linkedin.com/in/abdullah-m-elnahrawy/">
     <img
       height="36"
-      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0D9488?style=flat-square&logo=linkedin&logoColor=white&labelColor=064E3B"
+      src="https://img.shields.io/badge/LinkedIn-abdullah--m--elnahrawy-0284C7?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A"
       alt="LinkedIn: abdullah-m-elnahrawy"
     />
   </a>
   <a href="https://github.com/abdullah-m-elnahrawy">
     <img
       height="36"
-      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0D9488?style=flat-square&logo=github&logoColor=white&labelColor=064E3B"
+      src="https://img.shields.io/badge/GitHub-abdullah--m--elnahrawy-0284C7?style=flat-square&logo=github&logoColor=white&labelColor=0F172A"
       alt="GitHub: abdullah-m-elnahrawy"
     />
   </a>
@@ -46,45 +46,43 @@
   🔊 <b>GIF is silent.</b> Click to watch the <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>full demo video (with audio)</b></a>.
 </p>
 
-<!-- HARDWARE -->
+<!-- HARDWARE (what it runs on) -->
 <p align="center">
   <img
     height="28"
-    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0D9488?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-0284C7?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0F172A"
     alt="NVIDIA Jetson Orin"
   />
   <img
     height="28"
-    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0D9488?style=for-the-badge&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-0284C7?style=for-the-badge&logoColor=white&labelColor=0F172A"
     alt="Unitree G1 EDU Humanoid"
   />
 </p>
 
-
-<!-- STACK -->
+<!-- SKILLS (core stack) -->
 <p align="center">
   <img
     height="30"
-    src="https://img.shields.io/badge/C%2B%2B-0D9488?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/C%2B%2B-0284C7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0F172A"
     alt="C++"
   />
   <img
     height="30"
-    src="https://img.shields.io/badge/C-0D9488?style=for-the-badge&logo=c&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/C-0284C7?style=for-the-badge&logo=c&logoColor=white&labelColor=0F172A"
     alt="C"
   />
   <img
     height="30"
-    src="https://img.shields.io/badge/Linux-0D9488?style=for-the-badge&logo=linux&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/Linux-0284C7?style=for-the-badge&logo=linux&logoColor=white&labelColor=0F172A"
     alt="Linux"
   />
   <img
     height="30"
-    src="https://img.shields.io/badge/ROS%202-0D9488?style=for-the-badge&logo=ros&logoColor=white&labelColor=064E3B"
+    src="https://img.shields.io/badge/ROS%202-0284C7?style=for-the-badge&logo=ros&logoColor=white&labelColor=0F172A"
     alt="ROS 2"
   />
 </p>
-
 
 ---
 
