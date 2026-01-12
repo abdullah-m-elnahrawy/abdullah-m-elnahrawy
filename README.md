@@ -107,7 +107,7 @@
 
 A real-time multilingual (English, Arabic, Chinese, etc.) human-robot interface that lets you:
 - Ask questions and hear spoken answers.
-- Control the robot using <b>natural, free-form speech</b>, while executing <b>pre-defined motions</b> with <b>high performance</b>.
+- Control the robot using <b>natural, free-form speech</b>, while executing pre-defined motions with high performance.
 
 ### Why this repo matters
 
