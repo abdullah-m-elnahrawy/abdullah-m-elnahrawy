@@ -112,10 +112,7 @@ A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interfac
 - Control the robot using <b>natural, free-form speech</b> (not restricted to fixed command phrases), while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
 
 <b>Repo:</b> https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant
-
-<p align="center">
-  🎥 <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>Watch the full demo (with audio)</b></a>
-</p>
+<b>demo:</b> https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917
 
 ---
 
