@@ -89,33 +89,32 @@
 </p>
 
 ---
-
 ## 🔎 Focus
 
 - **UGVs & humanoids** and their applications in **healthcare settings**.
 - **Give LLMs the ability to move** by:
-   -- building a reliable “nerve” layer that connects LLMs **(brain)** to mobile robotics platforms **(muscles)**.
-   -- turning language understanding into **grounded, verifiable robot actions** (system design + safety).
+  - building a reliable “nerve” layer that connects **LLMs (brain)** to **mobile robotics platforms (muscles)**.
+  - turning language understanding into **grounded, verifiable robot actions** (system design + safety).
 
 **Healthcare applications, guided by two principles:**
 - Automation that respects real workflows, constraints, and people.
-- Non-clinical hospital support, repetitive tasks (e.g., **blood sample delivery**), reducing non-clinical load on caregivers, (greetings, wayfinding prompts, FAQs).
+- Non-clinical hospital support for repetitive tasks (e.g., **blood sample delivery**), reducing non-clinical interruptions and load on caregivers (e.g., FAQs, wayfinding prompts). 
 
 ---
 ## 🌱 Featured work
 
-### 🤖 Hassan — A Hospital Support Humanoid Robot (Unitree G1 EDU)
+### 🤖 Hassan: A Hospital Support Humanoid Robot (Unitree G1 EDU)
 
-A real-time multilingual (English, Arabic, Chinese, etc.) human–robot interface that lets you:
+A real-time multilingual (English, Arabic, Chinese, etc.) human-robot interface that lets you:
 - Ask questions and hear spoken answers.
-- Control the robot using <b>natural, free-form speech</b>, while executing <b>pre-defined motions</b> with <b>high performance</b> and <b>deterministic behaviour</b>.
+- Control the robot using <b>natural, free-form speech</b>, while executing <b>pre-defined motions</b> with <b>high performance</b>.
 
 ### Why this repo matters
 
 Most LLM demos are screen-bound. This repo focuses on building the “nerve” that connects LLMs (brain) to robots (muscles): <b>turning speech into verifiable robot actions</b>.
 
-<b>What this assistant does</b>
-- ✅ <b>Understands speech</b> (multilingual)
+<b>What this assistant does</b> 
+- ✅ <b>Understands speech</b> (multilingual - high performance) 
 - ✅ <b>Arbitrates intent</b>: “perform a motion” vs “reply with speech”
 - ✅ <b>Executes deterministic motion</b> from a <b>fixed catalogue</b> (no free-form motion generation), with high performance
 - ✅ <b>Plays back spoken replies</b> (backend-streamed audio)
