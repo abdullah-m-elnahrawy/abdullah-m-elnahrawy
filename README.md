@@ -15,36 +15,16 @@
   with a focus on fusing AI with robotics (mobile robots, humanoids) for indoor non-clinical hospital applications.
 </p>
 
-<!-- HERO PROOF (put early for maximum attention) -->
-<p align="center">
-  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
-    <img
-      src="https://raw.githubusercontent.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/main/assets/demo.gif"
-      width="950"
-      alt="Hassan humanoid demo (click to watch)"
-    />
-  </a>
-</p>
-
-<p align="center">
-  🔊 <b>GIF is silent.</b> Click to watch the
-  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>full demo video</b></a>.
-</p>
-
-<p align="center">
-  👉 <a href="#featured-work"><b>Jump below to the project details</b></a>
-</p>
-
----
+<!-------------------------->
 <!-- HARDWARE (what it runs on) -->
 <p align="center">
   <img
-    height="30"
+    height="28"
     src="https://img.shields.io/badge/NVIDIA%20Jetson%20Orin-10B981?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=064E3B"
     alt="NVIDIA Jetson Orin"
   />
   <img
-    height="30"
+    height="28"
     src="https://img.shields.io/badge/Unitree%20G1%20EDU%20Humanoid-10B981?style=for-the-badge&logoColor=white&labelColor=064E3B"
     alt="Unitree G1 EDU Humanoid"
   />
@@ -92,7 +72,29 @@
   </a>
 </p>
 
+<!-------------------------->
 
+<!-- HERO PROOF (put early for maximum attention) -->
+<p align="center">
+  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917">
+    <img
+      src="https://raw.githubusercontent.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/main/assets/demo.gif"
+      width="950"
+      alt="Hassan humanoid demo (click to watch)"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🔊 <b>GIF is silent.</b> Click to watch the
+  <a href="https://github.com/abdullah-m-elnahrawy/g1-humanoid-robot-multimodal-assistant/issues/1#issue-3800371917"><b>full demo video</b></a>.
+</p>
+
+<p align="center">
+  👉 <a href="#featured-work"><b>Jump below to the project details</b></a>
+</p>
+
+---
 
 ## 🔎 Focus
 
